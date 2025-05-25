@@ -36,3 +36,7 @@ A clean, object-oriented **Tic Tac Toe game** built in **Python**, allowing a hu
    ```bash
    git clone https://github.com/iamviplavkr/TicTacToe-Python.git
    cd TicTacToe-Python
+2. Run the game:
+   ```bash
+   python tic_tac_toe.py
+
