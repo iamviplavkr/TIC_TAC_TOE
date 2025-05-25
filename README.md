@@ -10,6 +10,13 @@ A clean, object-oriented **Tic Tac Toe game** built in **Python**, allowing a hu
 > Player enters a move (1–9), and the computer responds with a valid random move.  
 > Game detects wins, draws, and prompts for correct input.
 
+
+
+![ScreenRecording2025-05-25114027-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0f95e610-f85b-499b-bbb2-1d4cd1af0907)
+
+
+
+
 ---
 
 ## 🚀 Features
